@@ -26,10 +26,11 @@ Este proyecto utiliza las siguientes tecnologías:
 Y muchas otras características, incluyendo arquitectura de código modular y reutilización.
 
 ## Vista previa
-![Vista previa 1](https://github.com/miltonAlan/react-iphone-website-clone/master/capture1.png "Vista previa 1")
-![Vista previa 2](https://github.com/miltonAlan/react-iphone-website-clone/master/capture2.png "Vista previa 2")
-![Vista previa 3](https://github.com/miltonAlan/react-iphone-website-clone/master/capture3.png "Vista previa 3")
-![Vista previa 4](https://github.com/miltonAlan/react-iphone-website-clone/master/capture4.png "Vista previa 4")
+![Vista previa 1](https://raw.githubusercontent.com/miltonAlan/react-iphone-website-clone/master/capture1.png "Vista previa 1")
+![Vista previa 2](https://raw.githubusercontent.com/miltonAlan/react-iphone-website-clone/master/capture2.png "Vista previa 2")
+![Vista previa 3](https://raw.githubusercontent.com/miltonAlan/react-iphone-website-clone/master/capture3.png "Vista previa 3")
+![Vista previa 4](https://raw.githubusercontent.com/miltonAlan/react-iphone-website-clone/master/capture4.png "Vista previa 4")
+
 
 ## Inicio Rápido
 
